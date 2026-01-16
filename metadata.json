@@ -1,0 +1,5 @@
+{
+  "name": "VoltFlow - Charging Monitor",
+  "description": "A modern, real-time battery charging monitor that calculates wattage input, estimates charging speed, and provides AI-powered efficiency insights.",
+  "requestFramePermissions": []
+}

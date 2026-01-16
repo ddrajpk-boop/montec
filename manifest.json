@@ -1,0 +1,28 @@
+
+{
+  "name": "VoltFlow Charging Monitor",
+  "short_name": "VoltFlow",
+  "description": "Industrial grade real-time charging wattage and battery health monitor.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3103/3103446.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Live Telemetry",
+      "short_name": "Live",
+      "description": "Open real-time monitoring",
+      "url": "./index.html",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3103/3103446.png", "sizes": "192x192" }]
+    }
+  ]
+}
